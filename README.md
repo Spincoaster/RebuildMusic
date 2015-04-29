@@ -1,8 +1,10 @@
 # RebuildMusic::
 
+![](public/images/logo_120.png)
+
 under constructon...
 
-### RebuildMusic::Cafe
+### RebuildMusic::Factory
 
 under constructon...
 
